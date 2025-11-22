@@ -17,8 +17,7 @@ print("8" in tuplex)
 ```
 ## Output
 
-![438591487-4343e5a0-3d81-4091-81b6-dfec31c6a2ca](https://github.com/user-attachments/assets/9eb5f9ee-f253-4ce0-8de0-13535810c69a)
-
+![image](https://github.com/user-attachments/assets/4343e5a0-3d81-4091-81b6-dfec31c6a2ca)
 
 ## Result
 Thus the program executed successfully.
