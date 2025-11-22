@@ -23,6 +23,7 @@ for i in items:
         l1.append(i)
 print("Words without 'e':", l1)
 
+
 ```
 ## Output
 
